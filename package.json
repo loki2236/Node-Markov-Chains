@@ -1,0 +1,19 @@
+{
+  "name": "node-markov-chains",
+  "version": "1.0.0",
+  "description": "Testing of Markov Chains different implementation running on NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loki2236/Node-Markov-Chains.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loki2236/Node-Markov-Chains/issues"
+  },
+  "homepage": "https://github.com/loki2236/Node-Markov-Chains#readme"
+}
